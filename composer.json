@@ -1,8 +1,8 @@
 {
-    "name": "aip/application",
+    "name": "aiplog/application",
     "description": "",
     "type": "library",
-    "keywords": ["aip"],
+    "keywords": ["aiplog"],
     "homepage": "https://github.com/amelom/AIP",
     "license": "MIT",
     "require": {
