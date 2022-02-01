@@ -1,0 +1,1 @@
+tomado de https://github.com/microsoft/ApplicationInsights-PHP

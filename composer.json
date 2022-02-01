@@ -1,0 +1,26 @@
+{
+    "name": "aip/application",
+    "description": "",
+    "type": "library",
+    "keywords": ["aip"],
+    "homepage": "https://github.com/amelom/AIP",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": ">=5.0 <=7.0.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8.36",
+        "evert/phpdoc-md" : "~0.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "ApplicationInsights\\": "ApplicationInsights/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ApplicationInsights\\Tests\\": "Tests/"
+        }
+    }
+}
